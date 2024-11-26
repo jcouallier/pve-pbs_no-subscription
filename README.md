@@ -3,6 +3,6 @@ ___
 - #### Utilisation :
   - Récupérer ce dépôt à l'aide de Git.
   - Rendez-le exécutable avec :
-      - chmod +x configure_proxmox.sh
+      - chmod +x pve-pbs_no-subscription.sh
   - Exécutez-le avec des droits administratifs :
-      - sudo ./configure_proxmox.sh
+      - sudo ./pve-pbs_no-subscription.sh
